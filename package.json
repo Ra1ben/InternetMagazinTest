@@ -1,5 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^12.13.0"
+    "cypress": "^12.13.0",
+    "faker": "^5.5.3",
+    "string-mask": "^0.3.0"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2"
   }
 }
